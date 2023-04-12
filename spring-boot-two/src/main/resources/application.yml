@@ -1,0 +1,31 @@
+person:
+  boss: true
+  birth: 2001/9/7
+  age: 18
+  pet:
+    name: 狗
+    weight: 100
+#  interests: [唱,跳,篮球]
+  interests:
+    - 唱
+    - 跳
+    - 篮球
+  animal:
+    - 阿猫
+    - 阿狗
+    - 阿鱼
+#  score: {english: 100,math: 100}
+  score:
+    english: 100
+    math: 100
+  salary:
+    - 999999999.99
+    - 1000000000.00
+    - 99999999999999999.99
+  allPets:
+    sick:
+      - {name: 阿猫,weight: 100}
+      - name: 猫狗
+        weight: 200
+    health: [{name: 666,weight: 200}]
+  user-name: wenguodong
