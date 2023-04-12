@@ -3,7 +3,7 @@ Spring Boot 可以轻松创建独立的、生产级的基于 Spring 的应用程
 
 我们对 Spring 平台和第三方库持固执己见的观点，因此您可以毫不费力地开始使用。大多数 Spring 引导应用程序需要最少的 Spring 配置。
 
-##特征
+## 特征
 1. 创建独立的 Spring 应用程序
 2. 直接嵌入Tomcat，Jetty或Undertow（无需部署WAR文件）
 3. 提供固执己见的“入门”依赖项以简化构建配置
